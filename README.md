@@ -1,3 +1,4 @@
 # Laurits Mumberg
-![Poelsemix Steam](https://img.shields.io/steam/subscriptions/1335473896?label=Poelsemix&logo=Steam&link=https://steamcommunity.com/sharedfiles/filedetails/?id=1335473896)
+<a href="https://github.com/badges/shields/graphs/contributors" alt="Poelsemix Steam Workshop">
+        <img src="https://img.shields.io/steam/subscriptions/1335473896?label=Poelsemix&logo=Steam" /></a>
 ### AAU Software Student - 2019
