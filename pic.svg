@@ -1,15 +1,12 @@
-<svg height="50" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-   <script>
-  alert("Hello! I am an alert box!!");
-  </script>
+<svg height="100" width="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .heavy { font: bold 30px sans-serif;  fill: black;}
   </style>
-  <text text-anchor="middle" id="name" x="50%" y="30" class="heavy">Laurits</text>
+  <text id="name" x="10%" y="40" class="heavy">Jumping text</text>
     <animate 
            xlink:href="#name"
            attributeName="y"
-           values="30;32;38;40;38;32;30"
-           dur="1"
-           repeatCount="indefinite"/>           
+           values="40;32;30;32;40"
+           dur="0.25"
+           begin="name.mouseover" />           
 </svg>
