@@ -1,0 +1,14 @@
+<svg height="60" width="550" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style>
+    .heavy { font-size: 25px; font-weight: bold; font-family: Helvetica, Sans-Serif;  fill: black;
+             animation: moveAcross 0.5s forwards ease-out;}
+    
+@keyframes moveAcross {
+  to {
+    transform: translateX(100%);
+  }
+  </style>
+  <text id="name" x="-100%" y="50" class="heavy">AAU SOFTWARE STUDENT SINCE 2019</text>
+    
+</svg>
