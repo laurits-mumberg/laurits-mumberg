@@ -1,4 +1,7 @@
 <svg height="50" width="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+   <script>
+  alert("Hello! I am an alert box!!");
+  </script>
   <style>
     .heavy { font: bold 30px sans-serif;  fill: black;}
   </style>
