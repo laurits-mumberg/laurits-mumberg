@@ -1,13 +1,13 @@
-<svg height="50" width="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="100" width="200" xmlns="http://www.w3.org/2000/svg">
   <style>
     .heavy { font: bold 30px sans-serif;  fill: black;}
   </style>
-  <text id="name" x="10%" y="30" class="heavy">:)</text>
+  <text id="name" x="50%" y="30" class="heavy">:)</text>
     <animate 
            xlink:href="#name"
            attributeName="y"
            values="30;32;38;40;38;32;30"
            dur="1"
-           begin="0s" 
+           begin="name.click" 
            repeatCount="indefinite"/>           
 </svg>
