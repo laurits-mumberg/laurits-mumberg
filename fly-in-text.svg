@@ -9,6 +9,6 @@
     transform: translateX(100%);
   }
   </style>
-  <text id="name" x="-100%" y="10" class="heavy">AAU SOFTWARE STUDENT SINCE 2019</text>
+  <text id="name" x="-100%" y="50%" class="heavy">AAU SOFTWARE STUDENT SINCE 2019</text>
     
 </svg>
