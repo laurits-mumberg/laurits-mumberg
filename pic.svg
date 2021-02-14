@@ -1,6 +1,6 @@
-<svg viewBox="0 0 240 80" xmlns="http://www.w3.org/2000/svg">
+<svg height="100" width="200">
   <style>
-    .heavy { font: bold 30px sans-serif;  fill: black;}
+    .heavy { font: bold 30px sans-serif;  fill: red; text-anchor="middle"}
   </style>
   <text x="50%" y="30" class="heavy">Laurits</text>
 </svg>
