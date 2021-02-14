@@ -1,8 +1,8 @@
-<svg height="50" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="50" width="300" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <style>
     .heavy { font: bold 30px sans-serif;  fill: black;}
   </style>
-  <text id="name" x="50%" y="30" class="heavy">:)</text>
+  <text id="name" x="10%" y="30" class="heavy">:)</text>
     <animate 
            xlink:href="#name"
            attributeName="y"
