@@ -1,13 +1,20 @@
-<svg height="100" width="200" xmlns="http://www.w3.org/2000/svg">
+<svg height="100" width="550" xmlns="http://www.w3.org/2000/svg">
   <style>
-    .heavy { font: bold 30px sans-serif;  fill: black;  animation-name: example;
-  animation-duration: 4s;}
+    .heavy { font-size: 50px; font-weight: bold; font-family: Helvetica, Sans-Serif;  fill: transparent;
+             stroke: green;
+             stroke-width: 3;
+             animation-name: example;
+             animation-duration: 10s;
+             animation-iteration-count: infinite;
+             animation-direction: alternate;}
     
-  @keyframes example {
-  from {fill: red;}
-  to {fill: yellow;}
+@keyframes example {
+  0%   {stroke: red;}
+  25%  {stroke: orange;}
+  50%  {stroke: blue;}
+  100% {stroke: green;}
 }
   </style>
-  <text id="name" x="50%" y="30" class="heavy">:)</text>
+  <text id="name" x="10" y="50" class="heavy">LAURITS MUMBERG</text>
     
 </svg>
