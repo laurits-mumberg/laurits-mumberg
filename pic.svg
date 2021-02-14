@@ -2,7 +2,7 @@
   <style>
     .heavy { font: bold 30px sans-serif;  fill: black;}
   </style>
-  <text id="name" x="50%" y="30" class="heavy">:)</text>
+  <text id="name" x="50%" y="30" class="heavy">:))</text>
     <animate 
            xlink:href="#name"
            attributeName="y"
