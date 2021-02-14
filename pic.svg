@@ -1,6 +1,6 @@
 <svg height="100" width="200">
   <style>
-    .heavy { font: bold 30px sans-serif;  fill: red; text-anchor="middle"}
+    .heavy { font: bold 30px sans-serif;  fill: red;}
   </style>
   <text x="50%" y="30" class="heavy">Laurits</text>
 </svg>
