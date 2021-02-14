@@ -2,4 +2,4 @@
 <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=1335473896" alt="Poelsemix Steam Workshop">
         <img src="https://img.shields.io/steam/subscriptions/1335473896?label=Poelsemix&logo=Steam" /></a>
 <h3> AAU Software Student - 2019 </h3>
-![test](https://img.shields.io/github/issues-pr/chhoumann/P3AssetManagement)
+<img src="https://www.w3.org/TR/SVG11/images/script/script01.svgm" />
