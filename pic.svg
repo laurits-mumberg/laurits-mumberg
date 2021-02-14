@@ -8,6 +8,6 @@
            attributeName="y"
            values="30;32;38;40;38;32;30"
            dur="1"
-           begin="1s" 
+           begin="name.click" 
            repeatCount="indefinite"/>           
 </svg>
