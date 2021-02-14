@@ -2,7 +2,7 @@
 
   <style>
     .heavy { font-size: 25px; font-weight: bold; font-family: Helvetica, Sans-Serif;  fill: black;
-             animation: moveAcross 0.5s 1.5s forwards ease-out;}
+             animation: moveAcross 0.5s 1.5s forwards;}
     
 @keyframes moveAcross {
   to {
