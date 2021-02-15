@@ -43,8 +43,10 @@
       transform: translate(10px, 12.5%) scale(1.5,1.5);
     }
     text{
-      font-family: Quicksand;
+      font-family: Helvetica;
+      letter-spacing: 1px;
       font-size: 15px;
+      font-weight: bold;
       fill: #A9A9A9;
     }
     
