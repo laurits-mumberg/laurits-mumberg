@@ -8,7 +8,17 @@
     #border{
       fill: transparent;
       stroke-width: 7;
-      stroke: #D3D3D3
+      stroke: #D3D3D3;
+      animation: drawBorder 1s 0.5s linear forward;
+    }
+    
+    @keyframes drawBorder{
+      0%{
+        stroke-width: 7;
+      }
+      100% {
+        stroke-width: 200;
+      }
     }
     #icon{
       fill: #D3D3D3;
