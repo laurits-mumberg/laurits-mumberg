@@ -34,6 +34,14 @@
         fill: #008000
       }
     }
+    @keyframes fadeIn{
+      from{
+        opacity: 0;
+      }
+      to{
+        opacity: 1;
+      }
+    }
     
     #icon{
       fill: #A9A9A9;
@@ -41,6 +49,18 @@
     }
     #icon-box{
       transform: translate(10px, 12.5%) scale(1.5,1.5);
+    }
+    #top-text{
+      animation: fadeIn 0.5s 0.25s linear both,
+      fadeToWinColor 1s 0.5s linear forwards;
+    }
+    #mid-text{
+      animation: fadeIn 0.5s 0.5s linear both,
+      fadeToWinColor 1s 0.5s linear forwards;
+    }
+    #bot-text{
+      animation: fadeIn 0.5s 0.75s linear both,
+      fadeToWinColor 1s 0.5s linear forwards;
     }
     text{
       font-family: Helvetica;
